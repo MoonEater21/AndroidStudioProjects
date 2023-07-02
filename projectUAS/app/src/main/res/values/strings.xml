@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">projectUAS</string>
+    <string name="text_login">LOGIN AS</string>
+    <string name="text_admin">ADMIN</string>
+    <string name="text_user">USER</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home_user">HomeUser</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="listdogs">List Dogs</string>
+    <string name="listMainan">List Makanan</string>
+    <string name="listMakanan">List Mainan</string>
+    <string name="about_apps">about apps</string>
+    <string name="text_abouts">
+        Aplikasi ini dibuat untuk para pecinta anjing, tujuan aplikasi ini
+        untuk mengenalkan jenis-jenis anjing, aplikasi ini masih adalam tahap pengembangan
+        mohon maaf jika banyak kekurangan.
+    </string>
+
+</resources>
